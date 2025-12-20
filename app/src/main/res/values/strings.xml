@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Elec. Bills Calc</string>
+    <string name="title_activity_main">Electricity Bill Calculator</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_bill_list">Bill History</string>
+    <string name="title_activity_bill_detail">Bill Details</string>
+
+    <!-- Main Activity Strings -->
+    <string name="select_month">Select Month</string>
+    <string name="enter_units">Enter Electricity Units (kWh)</string>
+    <string name="enter_rebate">Enter Rebate Percentage (%)</string>
+    <string name="calculate">Calculate Bill</string>
+    <string name="view_history">View Bill History</string>
+    <string name="about">About</string>
+
+    <!-- Placeholders -->
+    <string name="hint_units">e.g., 250</string>
+    <string name="hint_rebate">0-5</string>
+
+    <!-- Results -->
+    <string name="total_charges">Total Charges:</string>
+    <string name="final_cost">Final Cost:</string>
+    <string name="month">Month:</string>
+
+    <!-- Error Messages -->
+    <string name="error_month">Please select a month</string>
+    <string name="error_units">Please enter units between 1-1000 kWh</string>
+    <string name="error_rebate">Please enter rebate between 0-5%</string>
+
+    <!-- About Page -->
+    <string name="app_description">Electricity Bill Calculator\n\nThis application helps you estimate your monthly electricity bills based on the block rates. Simply enter your monthly usage and rebate percentage to get an accurate estimate.</string>
+    <string name="how_to_use">How to Use:\n1. Select the month from dropdown\n2. Enter electricity units used (1-1000 kWh)\n3. Enter rebate percentage (0-5%)\n4. Click Calculate to see results\n5. Save to store in history\n6. View history to see past calculations</string>
+    <string name="copyright">© 2025. Electricity Bill Calculator App</string>
+    <string name="github_url">https://github.com/rierie/ElectricityBillCalculator</string>
+</resources>
